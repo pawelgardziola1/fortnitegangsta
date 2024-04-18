@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/fortnitegangsta/static/css/main.c7b5e5fd.css",
-    "main.js": "/fortnitegangsta/static/js/main.26ecd40d.js",
-    "static/js/453.f5d0572a.chunk.js": "/fortnitegangsta/static/js/453.f5d0572a.chunk.js",
-    "static/media/ikywcn.mp4": "/fortnitegangsta/static/media/ikywcn.e3f38fee7140d337d891.mp4",
-    "index.html": "/fortnitegangsta/index.html",
-    "main.c7b5e5fd.css.map": "/fortnitegangsta/static/css/main.c7b5e5fd.css.map",
-    "main.26ecd40d.js.map": "/fortnitegangsta/static/js/main.26ecd40d.js.map",
-    "453.f5d0572a.chunk.js.map": "/fortnitegangsta/static/js/453.f5d0572a.chunk.js.map"
+    "main.css": "/static/css/main.c7b5e5fd.css",
+    "main.js": "/static/js/main.620a4363.js",
+    "static/js/453.f5d0572a.chunk.js": "/static/js/453.f5d0572a.chunk.js",
+    "static/media/ikywcn.mp4": "/static/media/ikywcn.e3f38fee7140d337d891.mp4",
+    "static/media/mrbeast.mp4": "/static/media/mrbeast.bb85446dbe830c82a109.mp4",
+    "index.html": "/index.html",
+    "main.c7b5e5fd.css.map": "/static/css/main.c7b5e5fd.css.map",
+    "main.620a4363.js.map": "/static/js/main.620a4363.js.map",
+    "453.f5d0572a.chunk.js.map": "/static/js/453.f5d0572a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c7b5e5fd.css",
-    "static/js/main.26ecd40d.js"
+    "static/js/main.620a4363.js"
   ]
 }
