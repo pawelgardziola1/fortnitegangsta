@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/fortnitegang/static/css/main.c7b5e5fd.css",
+    "main.js": "/fortnitegang/static/js/main.764f47cf.js",
+    "static/js/453.f5d0572a.chunk.js": "/fortnitegang/static/js/453.f5d0572a.chunk.js",
+    "static/media/ikywcn.mp4": "/fortnitegang/static/media/ikywcn.e3f38fee7140d337d891.mp4",
+    "index.html": "/fortnitegang/index.html",
+    "main.c7b5e5fd.css.map": "/fortnitegang/static/css/main.c7b5e5fd.css.map",
+    "main.764f47cf.js.map": "/fortnitegang/static/js/main.764f47cf.js.map",
+    "453.f5d0572a.chunk.js.map": "/fortnitegang/static/js/453.f5d0572a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7b5e5fd.css",
+    "static/js/main.764f47cf.js"
+  ]
+}
